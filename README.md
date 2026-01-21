@@ -1,4 +1,4 @@
-# Sales-Conversion-Marketing-Funnel-Analysis
+# 🚀 Sales-Conversion-Marketing-Funnel-Analysis
 ---
 This project focuses on Conversion Rate Optimization (CRO) by analyzing the journey of a prospect from initial contact to final sale. By leveraging a combination of Python for deep-dive analytics and SQL for structured querying, this repository provides a blueprint for identifying "leaks" in a sales funnel.
 
